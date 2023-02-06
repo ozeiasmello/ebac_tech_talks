@@ -11,6 +11,7 @@
     &--primary {
         color: #fff;
         background-color: variables.$purple;
+        border-radius: 16px;
     }
 
     @media (max-width: 640px) {
